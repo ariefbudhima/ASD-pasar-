@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1481138151 source:f:\c++\kuliah\tubes\asd pasar\pasar.cpp
+	"pasar.h"
+
+1481047879 source:f:\c++\kuliah\tubes\asd pasar\main.cpp
+	<iostream>
+	"pasar.h"
+
+1481135076 f:\c++\kuliah\tubes\asd pasar\pasar.h
+	<iostream>
+	<stdlib.h>
+
+1481047879 source:f:\c++\kuliah\tubes\asd pasar - copy\main.cpp
+	<iostream>
+	"pasar.h"
+
+1481135076 f:\c++\kuliah\tubes\asd pasar - copy\pasar.h
+	<iostream>
+	<stdlib.h>
+
+1481138197 source:f:\c++\kuliah\tubes\asd pasar - copy\pasar.cpp
+	"pasar.h"
+
+1481047879 source:c:\users\aufa faradhila\downloads\nah ini udah sama interface\asd pasar - copy\main.cpp
+	<iostream>
+	"pasar.h"
+
+1481135076 c:\users\aufa faradhila\downloads\nah ini udah sama interface\asd pasar - copy\pasar.h
+	<iostream>
+	<stdlib.h>
+
+1481138197 source:c:\users\aufa faradhila\downloads\nah ini udah sama interface\asd pasar - copy\pasar.cpp
+	"pasar.h"
+
